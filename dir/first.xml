@@ -1,0 +1,35 @@
+<xml>
+    <note>
+        <people>
+            <to>Tove</to>
+            <from>Jani</from>
+        </people>
+        <stuff>
+            <heading>Reminder</heading>
+            <body>Don't forget me this weekend!</body>
+        </stuff>
+        <name>FIRST NOTE</name>
+    </note>
+    <note>
+        <people>
+            <to>dfgfd</to>
+            <from>fdgfdg</from>
+        </people>
+        <stuff>
+            <heading>fdfg</heading>
+            <body>Dofghgfhhgfhkend!</body>
+        </stuff>
+        <name>SECOND NOTE</name>
+    </note>
+    <note>
+        <people>
+            <to>dfgfdgfgdg</to>
+            <from>5645565</from>
+        </people>
+        <stuff>
+            <heading>54656464565</heading>
+            <body>546565675757657!</body>
+        </stuff>
+        <name>THIRD NOTE</name>
+    </note>
+</xml>
